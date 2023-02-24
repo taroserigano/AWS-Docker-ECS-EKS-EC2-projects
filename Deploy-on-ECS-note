@@ -1,0 +1,6 @@
+
+
+
+ECS 
+
+You can just specify the Docker image name: taroserigano/node-example-1 and create container, that will run the app on ECS's public addresss
