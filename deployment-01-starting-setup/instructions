@@ -1,9 +1,0 @@
-1. build docker image
-2. log in docker hub andn push the image 
-3. on EC2 SSH, docker run the image
-4. open the security group open to public
-5. web app runs 
-
-
-
-
